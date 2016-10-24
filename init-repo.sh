@@ -4,7 +4,7 @@
 # - install required node packages
 # - install Karma
 # - install git hooks
-
+# TEST
 
 node=`which node 2>&1`
 if [ $? -ne 0 ]; then
