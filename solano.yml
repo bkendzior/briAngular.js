@@ -1,7 +1,4 @@
-# Example Solano.yml
 ---
-ruby_version: 2.1.2
 tests:
-  - echo "hello"
-  - echo "w0rld"
-  - echo "solano.yml"
+  - "echo 'hi'"
+  - "echo 'test'"
