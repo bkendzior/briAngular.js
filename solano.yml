@@ -1,4 +1,0 @@
----
-tests:
-  - "echo 'hi'"
-  - "echo 'test'"
